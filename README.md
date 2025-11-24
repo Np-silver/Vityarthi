@@ -39,15 +39,25 @@ BookKeeper/
 │   └── books.json
 
 ├── src/
+
 │   ├── __init__.py
-│   ├── models.py           
-│   ├── database.py         
-│   ├── inventory.py        
-│   ├── lending.py          
-│   └── utils.py            
+
+│   ├── models.py 
+
+│   ├── database.py   
+
+│   ├── inventory.py 
+
+│   ├── lending.py   
+
+│   └── utils.py   
+
 ├── tests/
-│   └── test_models.py      
-├── main.py                
+
+│   └── test_models.py     
+
+├── main.py        
+
 └── README.md               
 
 Steps to Install & Run
@@ -67,9 +77,11 @@ Run the Application: Execute the main script to start the CLI.
 python main.py
 
 Download the Project:
+
 Download the zip file or clone the repository to your local machine.
 
 Navigate to the Folder:
+
 Open your terminal/command prompt and cd into the project directory.
 
 cd BookKeeper
