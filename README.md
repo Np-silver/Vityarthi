@@ -87,6 +87,7 @@ Open your terminal/command prompt and cd into the project directory.
 cd BookKeeper
 
 Run the Application:
+
 Execute the main script to start the CLI.
 
 python main.py
@@ -104,8 +105,6 @@ Run the following command:
 python -m unittest discover tests
 
 You should see an output indicating OK if all tests pass.
-
-Screenshots
 
 Main Menu:
 
