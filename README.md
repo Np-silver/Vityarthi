@@ -90,7 +90,7 @@ python -m unittest discover tests
 
 You should see an output indicating OK if all tests pass.
 
-📸 Screenshots
+Screenshots
 
 Main Menu:
 
@@ -103,7 +103,9 @@ BookKeeper
 
 Search Results:
 ID TITLE AUTHOR QTY PRICE
+
 101 Python Crash Course Eric Matthes 5 $29.99
+
 102 Clean Code Robert C. Martin 3 $45.50
 
 You should see an output indicating OK if all tests pass.
