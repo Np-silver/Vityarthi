@@ -35,6 +35,7 @@ Project Structure
 BookKeeper/
 
 ├── data/
+
 │   └── books.json
 
 ├── src/
@@ -97,6 +98,7 @@ Screenshots
 Main Menu:
 
 BookKeeper
+
 [1] Add New Book
 
 [2] Search Inventory 
