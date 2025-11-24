@@ -33,8 +33,10 @@ Interface: Command Line Interface (CLI)
 Project Structure
 
 BookKeeper/
+
 ├── data/
-│   └── books.json          
+│   └── books.json
+
 ├── src/
 │   ├── __init__.py
 │   ├── models.py           
@@ -95,10 +97,14 @@ Screenshots
 Main Menu:
 
 BookKeeper
-[1] Add New Book 
+[1] Add New Book
+
 [2] Search Inventory 
+
 [3] Delete Book 
+
 [4] Checkout / Borrow
+
 [5] Exit
 
 Search Results:
